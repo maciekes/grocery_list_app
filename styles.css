@@ -136,7 +136,7 @@ h1 {
 }
 
 .show > * {
-	flex: 3;
+	flex: 1;
 }
 
 .show button {
